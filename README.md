@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kipngetichkirui
-- 👀 I’m interested in Web development.
-- 🌱 I’m currently learning at Zetech University.
-- 💞️ I’m looking to collaborate on coding.
+- 👀 I do Web designing, Graphic design and cybersecurity.
+- 🌱 Studied Information Technology at Zetech University.
+- 💞️ I’m looking to collaborate on coding and related fields.
 - 📫 How to reach me WhatsApp (0794726941)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
